@@ -19,4 +19,4 @@ Working on Connecting the DB:
 NEXT GOALS: 
 - writing out the onSubmit function to insert into the DB 
 - creating a retrieve all messages function to query the DB 
-- hook the backend to the front-end 
+- create the connection endpoints
