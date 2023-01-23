@@ -1,5 +1,5 @@
 # kudos-board
-- work in progress - 
+WORK IN PROGRESS 
 
 Created the UI through Figma: 
 
